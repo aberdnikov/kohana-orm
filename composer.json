@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/orm",
+	"name":        "meerkat/kohana-orm",
 	"type":        "kohana-module",
 	"description": "The official Kohana ORM module",
 	"homepage":    "http://kohanaframework.org",
